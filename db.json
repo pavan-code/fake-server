@@ -1,4 +1,8 @@
 {
+  "images": [
+    "id":"0",
+    "image": "vanilla-ice-cream.jpg"
+    ]
   "dishes": [
     {
       "id": "0",
