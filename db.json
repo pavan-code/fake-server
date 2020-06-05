@@ -1,8 +1,8 @@
 {
   "images": [ 
     {
-      "id":"0",
-      "image": "vanilla-ice-cream.jpg"
+      "id" : "0",
+      "image" : "vanilla-ice-cream.jpg"
     }
     ]
   "dishes": [
