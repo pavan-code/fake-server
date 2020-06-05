@@ -3,7 +3,7 @@
     {
       "id": "0",
       "name": "vanilla",
-      "image": "../images/vanilla-ice-cream.jpg",
+      "image": "/vanilla-ice-cream.jpg",
       "price": "100",
       "quantity": 0,
       "description": "Vanilla is the essence of elegance and sophistication. This marriage of pure, sweet cream and Madagascar vanilla creates the sweet scent of exotic spice and a distinctive taste that lingers on your tongue.",
